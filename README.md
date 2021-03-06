@@ -1,6 +1,6 @@
 # miniProject
 
-The language Python3 and R are required to run this program.
+The languages Python3 and R are required to run this program.
 
 Certain software required to run the program with links are listed below:
 
