@@ -19,7 +19,7 @@ Certain software required to run the program with links are listed below:
 
 How to run the code:
 
-The file you want to run is python3 miniProject_Zain_Anwar.py.
+The file you want to run is miniProject_Zain_Anwar.py.
 
 Once you run this file, you will be prompted to either run the 'test' or 'full' dataset. Select which one you would like to run. 
 If you would like to run the test data, please note there is no extra steps required. The progam will direct itself in the proper
